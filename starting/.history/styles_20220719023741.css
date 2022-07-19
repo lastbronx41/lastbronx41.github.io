@@ -1,0 +1,22 @@
+.header {
+   display: flex;
+   justify-content: space-around;
+   background-color: #E06D10;
+   align-items: center;
+}
+
+#title {
+   font-size: 45px;
+   font-family: 'Abril Fatface', cursive;
+}
+
+#nav {
+   font-size: 22px;
+   font-family: 'Poppins', sans-serif;
+   background-color: black;
+   color: #E06D10;
+   border-radius: 35%;
+   display: flex;
+   justify-content: center;
+
+}

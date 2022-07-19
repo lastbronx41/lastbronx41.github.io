@@ -1,0 +1,42 @@
+.header {
+   display: flex;
+   justify-content: space-around;
+   background-color: #E06D10;
+   align-items: center;
+}
+
+#title {
+   font-size: 45px;
+   font-family: 'Abril Fatface', cursive;
+}
+
+.links {
+   background-color: white;
+   display: inline-flex;
+   justify-content: flex-end;
+   list-style-type: none;
+}
+
+.nav {
+   font-size: 22px;
+   font-family: 'Poppins', sans-serif;
+   color: #E06D10;
+   background-color: black
+   border-radius: 35%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
